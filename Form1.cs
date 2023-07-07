@@ -15,6 +15,7 @@ namespace InnerMetroUITest
     {
         int temp;
         int temp1;
+        int temp2;
 
         public Form1()
         {
