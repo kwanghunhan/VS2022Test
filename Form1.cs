@@ -14,6 +14,7 @@ namespace InnerMetroUITest
     public partial class Form1 : MetroForm
     {
         int temp;
+        int temp1;
 
         public Form1()
         {
